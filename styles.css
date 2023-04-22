@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+ body{
+            background-color: #f5f5f5;
+         }
+         header{
+            background-color: #011e29;
+            color: white;
+            text-align: center;
+            padding: 5px;
+         }
+         .body_section{
+            margin: 10px 20px;
+         }
+         .float_left{
+            float: left;
+         }
+         .left_aside, .main_article, .right_aside{
+            border-radius: 15px;
+            background-color: white;
+            margin-left: 8px;
+            text-align: center;
+            padding: 10px;
+         }
+         .left_aside{
+            /* border: 1px solid red; */
+             
+            width: 260px;
+             
+         }
+         .main_article{
+            /* border: 2px solid green; */
+            width: 545px;
+             
+            
+         }
+         .right_aside{
+            /* border: 2px solid black; */
+            width: 315px;
+             
+             
+         }
+         img{
+            width: 277px;
+         }
