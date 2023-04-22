@@ -14,14 +14,14 @@
          .float_left{
             float: left;
          }
-         .left_aside, .main_article, .right_aside{
+         .latest-news-section, .main_article, .pictorial-news-section{
             border-radius: 15px;
             background-color: white;
             margin-left: 8px;
             text-align: center;
             padding: 10px;
          }
-         .left_aside{
+         .latest-news-section{
             /* border: 1px solid red; */
              
             width: 260px;
@@ -33,7 +33,7 @@
              
             
          }
-         .right_aside{
+         .pictorial-news-section{
             /* border: 2px solid black; */
             width: 315px;
              
